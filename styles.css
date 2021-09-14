@@ -164,20 +164,4 @@ hr {
     margin: 10px 20px;
     text-decoration: none;
 }
-/**
-@media (max-width:700px) {
-  .phdresearch{
-    font-size: 1.1rem;
-    display: flex;
-    justify-content: center;
-    width: 85%;
-  }
-  .skill-row{
-    font-size: 1.1rem;
-    width: 85%;
-  }
-  .contact-message{
-    font-size: 1rem;
-    width: 85%;
-  }
-}
+
