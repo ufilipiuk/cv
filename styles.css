@@ -77,7 +77,7 @@ hr {
 }
 
 .skill-row {
-  width: 50%;
+  width: 60%;
   margin: 100px auto 100px auto;
   line-height: 2;
 }
@@ -100,7 +100,7 @@ hr {
 }
 
 .phdresearch {
-  width: 50%;
+  width: 60%;
   margin: 10px auto 10px auto;
   line-height: 2;
 }
@@ -110,7 +110,7 @@ hr {
 }
 
 .contact-message {
-  width: 40%;
+  width: 60%;
   margin: 40px auto;
 }
 
