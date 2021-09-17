@@ -159,3 +159,6 @@ hr {
     text-decoration: none;
 }
 
+.footer-link:hover{
+  color: #345a5c;
+}
