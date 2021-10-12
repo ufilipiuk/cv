@@ -162,3 +162,14 @@ hr {
 .footer-link:hover{
   color: #345a5c;
 }
+
+.footer-link-two{
+  color: #023047;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  
+  .footer-link-two:hover{
+  color: #b5179e;
+}
+  
